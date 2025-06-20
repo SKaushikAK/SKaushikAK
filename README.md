@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Kaushik Ananth Kumar S
 🎓 Final Year IT Student @ SSN College of Engineering  
-💻 Full-Stack & ML Enthusiast | Cybersecurity Intern  
+💻 Full-Stack & ML Enthusiast | Intern @CR2 Premier Banking Company
 🌟 Passionate about building real-world impactful solutions through web, mobile, and AI technologies
 
 ---
@@ -8,7 +8,6 @@
 ## 🌱 Currently Exploring
 - Advanced Full-Stack Development (React, Node.js, Django)
 - Machine Learning & Deep Learning for NLP and classification tasks
-- Cybersecurity – EMV Card Security, Threat Detection
 - Chatbots using Rasa and intelligent automation
 
 ---
@@ -79,20 +78,43 @@ On projects involving:
 
 ## 🔗 Featured Projects
 
-### 🔹 [Faculty Development and Workshop System](https://github.com/SKaushikAK/Faculty-Development-Program)
-Node.js + PostgreSQL dashboard to manage FDPs and workshops
+## 🔥 Featured Projects
 
-### 🔹 [Hotel Takeaway System](https://github.com/SKaushikAK/Hotel-Takeaway-Service)
-GUI food ordering system with Oracle backend
+### 🔹 [Faculty Development and Workshop Management System](https://github.com/SKaushikAK/Faculty-Development-Program)
+- Facilitates organizing and managing faculty development programs and workshops.
+- Features include event scheduling, registration tracking, and dynamic chart generation.
+- 🛠 Tools: PostgreSQL, Node.js, Express.js, Chart.js
 
-### 🔹 [Rasa Chatbot](https://github.com/SKaushikAK/Rasa)
-Campus assistant chatbot using Python + Rasa
+---
+
+### 🔹 [Network Chatbot for New Students](https://github.com/SKaushikAK/Rasa)
+- Chatbot developed to assist new students during admissions with frequently asked questions.
+- Designed to enhance onboarding during first-year student orientation.
+- 🛠 Tools: Python, Flask, Rasa Platform
+
+---
 
 ### 🔹 [Faculty Management System](https://github.com/SKaushikAK/Faculty-Management-System)
-Django-based system for faculty record management
+- Tracks and manages faculty records, including browse, filter, and download functionalities.
+- Built with robust admin access and efficient data handling.
+- 🛠 Tools: Python, Django, PostgreSQL
 
-### 🔹 [EnableU Mobile Game (React Native)]
-Educational mobile game app helping children with autism 
+---
+
+### 🔹 [EnableU - Mobile Game App](https://github.com/SKaushikAK) *(repo link pending)*
+- Interactive mobile app to help children with autism recognize shapes through a game.
+- Includes engaging touch-based interaction and instant feedback.
+- 🛠 Tools: React Native, JavaScript, Expo CLI, Supabase
+
+---
+
+### 🔹 [Video Anomaly Detection – Fight/Non-Fight Recognition](https://github.com/SKaushikAK) *(repo link pending)*
+- Real-time video analysis system to classify fight vs non-fight scenarios using AI.
+- Swin Transformer model integrated for accurate classification (achieved 80% accuracy).
+- Full-stack: React.js frontend for video upload + Flask backend for ML inference.
+- 🛠 Tools: React.js (Vite), Python, Flask, Swin Transformer, RESTful API
+
+
 
 
 ## 📚 Publications
