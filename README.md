@@ -16,14 +16,13 @@
 ## 💡 Looking to Collaborate
 On projects involving:
 - 🌐 Scalable web apps
-- 📱 Mobile apps for accessibility & learning (like autism shape game)
-- 🔐 Cybersecurity & data protection
+- 📱 Mobile apps for accessibility & learning
 - 🤖 AI-driven tools (ML/NLP-based)
 
 ---
 
 ## 📬 Reach Me:
-📧 kaushikananthkumar2210199@ssn.edu.in  
+📧   [Email](mailto:kaushikananthkumar2210199@ssn.edu.in)
 🔗 [LinkedIn](https://www.linkedin.com/in/s-kaushik-ananth-kumar/)  
 📄 [Resume (PDF)](./Resume.pdf)
 
@@ -52,6 +51,10 @@ On projects involving:
 ![Django](https://img.shields.io/badge/Backend-Django-darkgreen)
 ![Flask](https://img.shields.io/badge/Backend-Flask-lightgrey)
 
+### Authentication
+![JWT](https://img.shields.io/badge/Auth-JWT-green)
+
+
 ### 🧠 Machine Learning & AI
 ![Rasa](https://img.shields.io/badge/Chatbot-Rasa-purple)
 ![TensorFlow](https://img.shields.io/badge/ML-TensorFlow-orange)
@@ -62,11 +65,6 @@ On projects involving:
 ![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-blue)
 ![MongoDB](https://img.shields.io/badge/DB-MongoDB-green)
 ![MySQL](https://img.shields.io/badge/DB-MySQL-lightblue)
-![Oracle](https://img.shields.io/badge/DB-Oracle-red)
-
-### 🔐 Cybersecurity
-![EMV](https://img.shields.io/badge/Security-EMV%20Card-blue)
-![Encryption](https://img.shields.io/badge/Security-Encryption-green)
 
 ### 📱 Mobile Development
 ![React Native](https://img.shields.io/badge/Mobile-React%20Native-blue)
@@ -94,23 +92,15 @@ Campus assistant chatbot using Python + Rasa
 ### 🔹 [Faculty Management System](https://github.com/SKaushikAK/Faculty-Management-System)
 Django-based system for faculty record management
 
-### 🔹 [Autism Shape Game (React Native)]
-Educational mobile app helping children with autism recognize shapes
+### 🔹 [EnableU Mobile Game (React Native)]
+Educational mobile game app helping children with autism 
 
----
 
 ## 📚 Publications
 
 📝 [ImageCLEF 2024 – Ideology & Power Identification in Parliamentary Debates](https://www.imageclef.org/2024)  
 Using BERT-based NLP to detect political alignment and power roles from debate transcripts.
 
----
 
-## 📈 GitHub Stats
 
-![Kaushik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SKaushikAK&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SKaushikAK&layout=compact&theme=radical)
 
----
-
-🎮 Let’s build something impactful… and game a little on the side!
