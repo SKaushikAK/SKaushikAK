@@ -24,7 +24,6 @@ On projects involving:
 ## 📬 Reach Me:
 📧   [Email](mailto:kaushikananthkumar2210199@ssn.edu.in)
 🔗 [LinkedIn](https://www.linkedin.com/in/s-kaushik-ananth-kumar/)  
-📄 [Resume (PDF)](./Resume.pdf)
 
 ---
 
