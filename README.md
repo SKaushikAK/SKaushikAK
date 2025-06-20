@@ -101,14 +101,14 @@ On projects involving:
 
 ---
 
-### 🔹 [EnableU - Mobile Game App](https://github.com/SKaushikAK) *(repo link pending)*
+### 🔹 [EnableU - Mobile Game App](https://github.com/SKaushikAK/enableu) *(repo link pending)*
 - Interactive mobile app to help children with autism recognize shapes through a game.
 - Includes engaging touch-based interaction and instant feedback.
 - 🛠 Tools: React Native, JavaScript, Expo CLI, Supabase
 
 ---
 
-### 🔹 [Video Anomaly Detection – Fight/Non-Fight Recognition](https://github.com/SKaushikAK) *(repo link pending)*
+### 🔹 [Video Anomaly Detection – Fight/Non-Fight Recognition](https://github.com/SKaushikAK/video-anomaly-detection-frontend) *(repo link pending)*
 - Real-time video analysis system to classify fight vs non-fight scenarios using AI.
 - Swin Transformer model integrated for accurate classification (achieved 80% accuracy).
 - Full-stack: React.js frontend for video upload + Flask backend for ML inference.
