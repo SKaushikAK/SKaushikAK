@@ -21,11 +21,9 @@ On projects involving:
 ---
 
 ## 📬 Reach Me:
-[Email](mailto:kaushikananthkumar2210199@ssn.edu.in)
+[![Email](https://img.shields.io/badge/Email-Connect-blue?style=for-the-badge&logo=gmail)](mailto:kaushikananthkumar2210199@ssn.edu.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/s-kaushik-ananth-kumar/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-gray?style=for-the-badge&logo=github)](https://github.com/SKaushikAK)
-
-
 
 ---
 
@@ -51,7 +49,6 @@ On projects involving:
 
 ### Authentication
 ![JWT](https://img.shields.io/badge/Auth-JWT-green)
-
 
 ### 🧠 Machine Learning & AI
 ![Rasa](https://img.shields.io/badge/Chatbot-Rasa-purple)
