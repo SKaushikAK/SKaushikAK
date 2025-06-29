@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Kaushik Ananth Kumar S
-🎓 Final Year IT Student @ SSN College of Engineering  
-💻 Full-Stack & ML Enthusiast | Intern @CR2 Premier Banking Company
+🎓 Final Year IT Student SSN College of Engineering  
+💻 Full-Stack & ML Enthusiast | Intern atCR2 Premier Banking Company
 🌟 Passionate about building real-world impactful solutions through web, mobile, and AI technologies
 
 ---
@@ -96,27 +96,28 @@ On projects involving:
 
 ---
 
-### 🔹 [EnableU - Mobile Game App](https://github.com/SKaushikAK/enableu) *(repo link pending)*
+### 🔹 [EnableU - Mobile Game App](https://github.com/SKaushikAK/enableu) 
 - Interactive mobile app to help children with autism recognize shapes through a game.
 - Includes engaging touch-based interaction and instant feedback.
 - 🛠 Tools: React Native, JavaScript, Expo CLI, Supabase
 
 ---
 
-### 🔹 [Video Anomaly Detection – Fight/Non-Fight Recognition](https://github.com/SKaushikAK/video-anomaly-detection-frontend) *(repo link pending)*
+### 🔹 [Video Anomaly Detection – Fight/Non-Fight Recognition](https://github.com/SKaushikAK/video-anomaly-detection-frontend)
 - Real-time video analysis system to classify fight vs non-fight scenarios using AI.
 - Swin Transformer model integrated for accurate classification (achieved 80% accuracy).
 - Full-stack: React.js frontend for video upload + Flask backend for ML inference.
 - 🛠 Tools: React.js (Vite), Python, Flask, Swin Transformer, RESTful API
 
 
-
+### 🔹 [Resource Management Dashboard](https://github.com/SKaushikAK/resource)
+- Modern React.js frontend for a workforce, project, and resource management platform.
+Features project/task creation, employee assignment, workload tracking, and real-time status monitoring.
+- Integrates with external RESTful APIs for authentication, data management, and reporting.
+Secure JWT-based authentication, role-based access, and responsive UI for streamlined operations.
+- 🛠 Tools: React.js (Vite), Axios, CSS Modules, JWT
 
 ## 📚 Publications
 
 📝 [ImageCLEF 2024 – Ideology & Power Identification in Parliamentary Debates](https://www.imageclef.org/2024)  
 Using BERT-based NLP to detect political alignment and power roles from debate transcripts.
-
-
-
-
