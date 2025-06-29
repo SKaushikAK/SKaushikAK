@@ -21,8 +21,11 @@ On projects involving:
 ---
 
 ## 📬 Reach Me:
-📧   [Email](mailto:kaushikananthkumar2210199@ssn.edu.in)
-🔗 [LinkedIn](https://www.linkedin.com/in/s-kaushik-ananth-kumar/)  
+[Email](mailto:kaushikananthkumar2210199@ssn.edu.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/s-kaushik-ananth-kumar/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-gray?style=for-the-badge&logo=github)](https://github.com/SKaushikAK)
+
+
 
 ---
 
@@ -34,17 +37,14 @@ On projects involving:
 ![C++](https://img.shields.io/badge/Code-C++-orange)
 ![Java](https://img.shields.io/badge/Code-Java-red)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
-![HTML](https://img.shields.io/badge/Code-HTML-orange)
-![CSS](https://img.shields.io/badge/Code-CSS-blue)
 
 ### 🌐 Frontend & UI
-![React](https://img.shields.io/badge/Frontend-React-blue)
-![HTML](https://img.shields.io/badge/Frontend-HTML5-orange)
-![CSS](https://img.shields.io/badge/Frontend-CSS3-blue)
-![JavaScript](https://img.shields.io/badge/Frontend-JavaScript-yellow)
+![React](https://img.shields.io/badge/Framework-React-blue)
+![React-Native](https://img.shields.io/badge/Framework-React%20Native-blue)
+![Flutter](https://img.shields.io/badge/Frontend-Flutter-yellow)
 
 ### 🔙 Backend
-![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
+![Node.js](https://img.shields.io/badge/Framework-Node.js-green)
 ![Express.js](https://img.shields.io/badge/Backend-Express-black)
 ![Django](https://img.shields.io/badge/Backend-Django-darkgreen)
 ![Flask](https://img.shields.io/badge/Backend-Flask-lightgrey)
@@ -77,8 +77,6 @@ On projects involving:
 ---
 
 ## 🔗 Featured Projects
-
-## 🔥 Featured Projects
 
 ### 🔹 [Faculty Development and Workshop Management System](https://github.com/SKaushikAK/Faculty-Development-Program)
 - Facilitates organizing and managing faculty development programs and workshops.
