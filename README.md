@@ -103,7 +103,7 @@ On projects involving:
 
 ---
 
-### 🔹 [Video Anomaly Detection – Fight/Non-Fight Recognition](https://github.com/SKaushikAK/video-anomaly-detection-frontend)
+### 🔹 [Video Anomaly Detection – Fight/Non-Fight Recognition](https://github.com/SKaushikAK/video-anomaly-detection)
 - Real-time video analysis system to classify fight vs non-fight scenarios using AI.
 - Swin Transformer model integrated for accurate classification (achieved 80% accuracy).
 - Full-stack: React.js frontend for video upload + Flask backend for ML inference.
