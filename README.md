@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Kaushik Ananth Kumar S
 🎓 Final Year IT Student SSN College of Engineering  
-💻 Full-Stack & ML Enthusiast | Intern atCR2 Premier Banking Company
+💻 Full-Stack & ML Enthusiast | Intern at CR2 Premier Banking Company
 🌟 Passionate about building real-world impactful solutions through web, mobile, and AI technologies
 
 ---
