@@ -109,6 +109,7 @@ On projects involving:
 - Full-stack: React.js frontend for video upload + Flask backend for ML inference.
 - 🛠 Tools: React.js (Vite), Python, Flask, Swin Transformer, RESTful API
 
+---
 
 ### 🔹 [Resource Management Dashboard](https://github.com/SKaushikAK/resource)
 - Modern React.js frontend for a workforce, project, and resource management platform.
